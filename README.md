@@ -1,0 +1,2 @@
+# RationalClass
+Represents rational number
